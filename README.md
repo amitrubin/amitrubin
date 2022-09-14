@@ -11,6 +11,7 @@
   - Unique programming paradigms/languages & their Compilation
   - miscellaneous:
     - History-related.
+    - Open Source Teaching Tools
     - TTRPG (e.g. D&D) related, as well as Storytelling & Writing tools.
     - Things that are for the good of society/charity.
 

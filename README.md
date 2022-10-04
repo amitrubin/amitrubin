@@ -1,5 +1,5 @@
 # Amit Rubin
-- I’m a Software Engineer in spirit, and soon (I hope) professionally.  
+- I’m a Junior Software Engineer.  
   - BSc Computer Science Ben Gurion University, 2022. 
   - If you're hiring Junior Engineers/Developers, send me a message! amit.filip@gmail.com  
   - CV: https://drive.google.com/file/d/1IQMKJD1SO8Vp3mCKiOGH69ol4H_CjH2g/view?usp=sharing

@@ -7,6 +7,7 @@ BSc Computer Science, Ben Gurion University, 2022.
 
 I would be exceptionally willing to collaborate on anything related to
 - Algorithmic Composition & Music Theory
+- λ-calculus
 - Evolutionary Algorithms
 - Number Theory (& general math)
 - Unique programming paradigms/languages & their Compilation

@@ -1,5 +1,5 @@
 # Amit Rubin
-Computer Science Masters Student, , Ben Gurion University, 2024-. 
+Computer Science Masters Student, Ben Gurion University, 2024-. 
 
 Software Engineer @ [Bioz](https://www.bioz.com/) 2022-2024.  
 
